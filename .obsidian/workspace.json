@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "2034c832e63dc5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9ca52a141b4fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885ce84b334925f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Basic/ABI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4254c59a374f6c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Basic/Interaction avec Smart contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6779cd1cafffc78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Basic/exemples.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2205af1bb5608d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/1-Low-Level Calls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1111ee7bc610ce24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a34bb96dd2481bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "767a488940d0f0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52d267a78795803",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9f8e4489153e341",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30c983c4af0253bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2107371794f6c065",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc96fdd0a501a441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb4e54a77c950a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e1d375faf576a95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9a6c76e0f55941b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07d16e3798beb447",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1111ee7bc610ce24",
+  "lastOpenFiles": [
+    "Solidity/Basic/Interaction avec Smart contract.md",
+    "Solidity/Basic/exemples.md",
+    "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+    "Node Guardians/Standalone-quest/1-Low-Level Calls.md",
+    "Node Guardians/Standalone-quest",
+    "Solidity/Basic/ABI.md",
+    "Solidity/Basic",
+    "Node Guardians/Low-Level Calls I",
+    "Node Guardians",
+    "Solidity"
+  ]
+}
